@@ -4,8 +4,11 @@ public class Test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		long d = 2147283648L;
-		System.out.println(d);
+		int a = 40/2;
+		int b = 10%2;
+		System.out.println(a);
+		System.out.println(b);
+		
 	}
 
 }
